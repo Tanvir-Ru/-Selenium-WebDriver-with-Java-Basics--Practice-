@@ -12,8 +12,3 @@ A beginner-friendly repository demonstrating the core concepts of web automation
 - **Java JDK 11** or higher.
 - **Maven** installed and configured.
 - **IntelliJ IDEA** or Eclipse.
-
-## 🛠️ Installation & Setup
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/your-username/selenium-java-basics.git](https://github.com/your-username/selenium-java-basics.git)
